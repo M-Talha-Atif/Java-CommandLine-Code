@@ -1,0 +1,12 @@
+computer
+An electronic machine frequently used by Computer Science students.
+computer
+computer.jpg
+flower
+http://www.csd.uwo.ca/flower.html
+ping
+-ping.wav
+course
+*course.wav
+computer
+computer.gif
